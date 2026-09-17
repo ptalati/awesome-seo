@@ -41,6 +41,7 @@
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples.
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
+- [Schema Markup Generators](https://brainfeedsolutions.com/tools/schema-markup-generator) - Free JSON-LD generators for LocalBusiness, Article and FAQPage, with required/recommended/optional fields and a note on whether Google still shows a rich result for each type.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
 ## **Articles and eBooks**
